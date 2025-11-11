@@ -1,4 +1,4 @@
-# Node.js HW 01 – Contacts CLI Mini App
+# Contacts CLI Mini App
 
 ## Overview
 This repository contains a simple Node.js CLI-style mini application for managing a contacts list stored in a JSON file.
